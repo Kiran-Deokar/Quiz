@@ -48,4 +48,60 @@
    "Correct":"None of the Above"
 
 }
+,
+{
+   "Q_id":6,
+   "Q":"Inside which HTML element do we put the JavaScript?",
+   "opt1":"<xmp><javascript></xmp>",
+   "opt2":"<xmp><js></xmp>",
+   "opt3":"<xmp><scripting></xmp>",
+   "opt4":"<xmp><script></xmp>" ,
+   "Correct":"<xmp><script></xmp>"
+
+}
+,
+{
+   "Q_id":7,
+   "Q":"What is the correct JavaScript syntax to change the content of the HTML element below? <xmp><p id='demo'>This is a demonstration.</p></xmp>",
+   "opt1":" document.getElement('p').innerHTML = 'Hello World!';",
+   "opt2":" #demo.innerHTML = 'Hello World!';",
+   "opt3":" document.getElementById('demo').innerHTML = 'Hello World!';",
+   "opt4":" document.getElementByName('p').innerHTML = 'Hello World!';" ,
+   "Correct":" document.getElementById('demo').innerHTML = 'Hello World!';"
+
+}
+,
+{
+   "Q_id":8,
+   "Q":"What is the correct syntax for referring to an external script called 'xxx.js'?",
+   "opt1":" <xmp><script href='xxx.js'></xmp>",
+   "opt3":" <xmp><script name='xxx.js'></xmp>",
+   "opt2":" <xmp><script src='xxx.js'></xmp>",
+   "opt4":"None of the Above" ,
+   "Correct":" <xmp><script src='xxx.js'></xmp>"
+
+}
+,
+{
+   "Q_id":9,
+   "Q":"What will the following code return: Boolean(10 > 9)",
+   "opt1":"NaN",
+   "opt2":"False",
+   "opt3":"True",
+   "opt4":"None of the Above" ,
+   "Correct":"True"
+
+}
+,
+{
+   "Q_id":10,
+   "Q":"Is JavaScript case-sensitive?",
+   "opt1":"Yes",
+   "opt2":"No",
+   "opt3":"Sometimes",
+   "opt4":"Changes according to environment" ,
+   "Correct":"No"
+
+}
+
 ]
