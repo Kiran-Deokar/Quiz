@@ -1,0 +1,51 @@
+[{
+   "Q_id":1,
+   "Q":"VAR is .....",
+   "opt1":"Function Scoped.",
+   "opt2":"Block Scoped.",
+   "opt3":"Both Function and Block Scoped.",
+   "opt4":"None of the Above." ,
+   "Correct":"Function Scoped."
+},
+{
+   "Q_id":2,
+   "Q":"Let is .....",
+   "opt1":"Function Scoped.",
+   "opt2":"Block Scoped.",
+   "opt3":"Both Function and Block Scoped.",
+   "opt4":"None of the Above." ,
+   "Correct":"Block Scoped."
+},
+{
+   "Q_id":3,
+   "Q":"Const is .....",
+   "opt1":"Function Scoped.",
+   "opt2":"Block Scoped.",
+   "opt3":"Both Function and Block Scoped.",
+   "opt4":"None of the Above." ,
+   "Correct":"Block Scoped."
+
+}
+,
+{
+   "Q_id":4,
+   "Q":"When the Javascript is launched?",
+   "opt1":"1992",
+   "opt2":"1993",
+   "opt3":"1995",
+   "opt4":"1996" ,
+   "Correct":"1995"
+
+}
+,
+{
+   "Q_id":5,
+   "Q":"const can be?",
+   "opt1":"redeclared",
+   "opt2":"reassign",
+   "opt3":"modified",
+   "opt4":"None of the Above" ,
+   "Correct":"None of the Above"
+
+}
+]
